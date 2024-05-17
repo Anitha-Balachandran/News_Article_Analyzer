@@ -11,6 +11,7 @@ The BBC Dataset consists of 2,225 documents collected from the BBC News website,
 This initial stage involves examining thedata to understand its characteristics and underlying patterns. Text preprocessing is a critical component of the process, which includes several key steps: tokenization to break down text into smaller parts, removal of URLs and punctuation to clean the text, conversion of all text to lowercase to maintain consistency, and removal of stopwords to eliminate unnecessary words. Additionally, lemmatization is performed to reduce words to their base or root form, further refining the textual data. For text vectorization, techniques such as Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) are employed to convert text into a numerical format that can be processed by machine learning models. The data is split into training and testing sets (80-20 split). There is an imbalance in the news sentiment dataset, with most of the documents having a positive sentiment. To address this, the Synthetic Minority Over-sampling Technique (SMOTE) is applied to the training set to balance the dataset effectively.
 
 <img width="1127" alt="image" src="https://github.com/Anitha-Balachandran/NLP---News_Article_Analyzer/assets/143915040/df2b888b-28a7-48aa-828b-fb4ba869a499">
+
 # Model Details and Training
 The details and training process for three different functionalities of the NewsNuggets application are outlined below.
 
