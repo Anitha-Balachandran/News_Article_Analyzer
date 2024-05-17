@@ -54,5 +54,9 @@ As part of the deployment process, the best classification and summarization mod
 <img width="820" alt="image" src="https://github.com/Anitha-Balachandran/NLP---News_Article_Analyzer/assets/143915040/de4c4c85-38b1-4141-aea3-a055778368d3">
 
 
+## Dataset Source
+
+- [BBC News Dataset](http://mlg.ucd.ie/datasets/bbc.html): This dataset contains news articles from the BBC across various categories.
+- [News Sentiment Dataset](https://www.kaggle.com/datasets/hoshi7/news-sentiment-dataset): A dataset focusing on news sentiments, which can be used for sentiment analysis tasks.
 
 
